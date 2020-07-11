@@ -6,10 +6,11 @@ GitHub Pages Blazor WASM + Fast Design
 
 - `[yyMMdd]`
 
+- 200711
+    - main to master for GitHub Pages
+    - removed [fast.design](https://fast.design) temporarily, first I need to get GitHub Pages working.
+
 - 200710
     - master -> main
     - added [fast.design](https://fast.design)
 
-- 200711
-    - main to master for GitHub Pages
-    - removed [fast.design](https://fast.design) temporarily, first I need to get GitHub Pages working.
