@@ -1,8 +1,8 @@
 # Change Log
 
-### [Home (_ReadMe_)](README.md)
+#### [ Home ](https://github.com/JeepNL/BlazorBits)
 
-- `[yyMMdd]`
+`[yyMMdd]`
 
 - ##### 200711
     1. main to master for GitHub Pages (_GitHub Pages needs a 'master'_)	  
@@ -14,4 +14,4 @@
     1. master -> main
     2. added [fast.design](https://fast.design)
 	
-### [Home (_ReadMe_)](README.md)
+#### [ Home ](https://github.com/JeepNL/BlazorBits)
