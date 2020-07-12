@@ -8,10 +8,10 @@
 
 ##### To deploy your Blazor WebAssembly App automatically to GitHub Pages you'll need to:
 
-1. Have a 'master' and a 'development' branche. 
-    - The 'master' branche is mandatory. GitHub Pages needs a 'master' branche. You can use any name for the 'development' branche.
-2. Make the 'development' branche the default branche.
-3. GitHub Actions will deploy to the 'master' branche
+1. Have a 'master' and a 'development' branch. 
+    - The 'master' branch is mandatory. GitHub Pages needs a 'master' branch. You can use any name for the 'development' branch.
+2. Make the 'development' branch the default branch.
+3. GitHub Actions will deploy to the 'master' branch.
 4. Follow [Davide Guida](https://twitter.com/DavideGuida82)'s blog post "[How to deploy Blazor webassembly on GitHub Pages using GitHub Actions](https://www.davideguida.com/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions/)"
 5. Don't forget to enable GitHub Pages on the Master Branche: `Settings` -> `Options` -> `GitHub Pages`
 
