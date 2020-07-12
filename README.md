@@ -1,4 +1,4 @@
-# Blazor Bits WebAssembly
+# Blazor Bits WebAssembly on GitHub Pages
 
 **Automatically deployed on GitHub Pages ([https://jeepnl.github.io/BlazorBits/](https://jeepnl.github.io/BlazorBits/)) using GitHub Actions**
 
