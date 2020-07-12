@@ -13,6 +13,7 @@
 2. Make the 'development' branche the default branche.
 3. GitHub Actions will deploy to the 'master' branche
 4. Follow [Davide Guida](https://twitter.com/DavideGuida82)'s blog post "[How to deploy Blazor webassembly on GitHub Pages using GitHub Actions](https://www.davideguida.com/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions/)"
+5. Don't forget to enable GitHub Pages on the Master Branche: `Settings` -> `Options` -> `GitHub Pages`
 
 #### Recipes
 
