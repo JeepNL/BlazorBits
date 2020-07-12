@@ -11,7 +11,7 @@
 	4. Added these 2 'recipes' to ReadMe
 
 - ##### 200711
-    1. 'main' -> 'master' for GitHub Pages (_GitHub Pages needs a 'master'_).
+    1. 'main' -> 'master' for GitHub Pages (_GitHub Pages needs a 'master' branch_).
     2. Removed [fast.design](https://fast.design) temporarily, first I need to get GitHub Pages working.
     3. Reading [Davide Guida](https://twitter.com/DavideGuida82)'s blog post "[How to deploy Blazor webassembly on GitHub Pages using GitHub Actions](https://www.davideguida.com/how-to-deploy-blazor-webassembly-on-github-pages-using-github-actions/)".
     4. Deployed and it [works](https://jeepnl.github.io/BlazorBits/)!
